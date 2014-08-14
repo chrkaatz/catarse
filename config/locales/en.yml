@@ -454,6 +454,19 @@ en:
       rewards_description: "We believe that the best way to inspire people to contriubte a project is offering excellent – and creative! – rewards. Everybody loves limited editions, unique things and joyful experiences (parties, candies, balloon travelling!). Spend some time devising creative rewards and people will be interested."
       rewards_title: Rewards
       submit: "Save draft"
+    index:
+      sections:
+        recommended:
+          title: "Recommendations"
+        expiring:
+          title: "Expiring soon"
+        recents:
+          title: "Recents"
+      sidebar:
+        placeholders: 
+          email: "Enter your email"
+        buttons:
+          newsletter: Submit
     index_header:
       subtitle: "Fund projects collaboratively and become part of something bigger. Promote a collective catharsis! You're the missing part in this story."
       subtitle_html: "Fund projects collaboratively and become part of something bigger.<br/>Promote a collective catharsis! You're the missing part in this story."
